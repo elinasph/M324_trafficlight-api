@@ -16,7 +16,7 @@ pipeline {
                   //your repo branch
                   git branch: 'main',
                   //your public repo
-                  url: 'https://github.com/elinasph/M324_trafficlight.git'
+                  url: 'https://github.com/elinasph/M324_trafficlight-api.git'
            }
          }
     }
